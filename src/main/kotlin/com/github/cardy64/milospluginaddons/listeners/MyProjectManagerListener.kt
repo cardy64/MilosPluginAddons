@@ -1,9 +1,9 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.cardy64.milospluginaddons.listeners
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import org.jetbrains.plugins.template.services.MyProjectService
+import com.github.cardy64.milospluginaddons.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 

@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cardy64.milospluginaddons.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cardy64.milospluginaddons.MyBundle
 
 class MyApplicationService {
 

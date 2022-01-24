@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.cardy64.milospluginaddons.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cardy64.milospluginaddons.MyBundle
 
 class MyProjectService(project: Project) {
 
